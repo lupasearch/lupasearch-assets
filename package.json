@@ -1,0 +1,8 @@
+{
+    "name": "@getlupa/assets",
+    "version": "1.0.0",
+    "description": "Assets for LupaSearch",
+    "main": "fonts/mdi-lupasearch.woff2",
+    "author": "LupaSearch",
+    "license": "MIT"
+}
